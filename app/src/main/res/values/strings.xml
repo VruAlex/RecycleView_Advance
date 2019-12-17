@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleViewPartOne</string>
+
+    <string name="Search">Search</string>
+    <string name="Text">Text</string>
+
+</resources>

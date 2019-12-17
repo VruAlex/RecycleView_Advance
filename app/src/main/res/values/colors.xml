@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#6200EA</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="Text_Color_Title">#2196F3</color>
+    <color name="Text_Color">#9E9E9E</color>
+
+    <color name="SearchBoxWhite">#E0E0E0</color>
+    <color name="SearchBoxBlack">#263238</color>
+
+    <color name="SearchBoxTextWhite">#263238</color>
+    <color name="SearchBoxTextBlack">#E0E0E0</color>
+
+
+</resources>
